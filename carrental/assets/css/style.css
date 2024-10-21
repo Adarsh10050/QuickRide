@@ -1063,8 +1063,8 @@ nav.navbar {
 /*-------------------------
 	3.1. Banner
 -------------------------------*/
-.banner-section {
-  background-image: url("../images/banner-image.jpg");
+/* .banner-section {
+  background-image: url("../images/https://i.ibb.co/7RBWC2T/home.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1110,7 +1110,7 @@ nav.navbar {
 }
 .find-car-form .col-form-6:nth-child(2n+1) {
   margin-right: 10px;
-}
+} */
 
 
 /*-------------------------

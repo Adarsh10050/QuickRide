@@ -110,7 +110,7 @@ CREATE TABLE `tblcontactusinfo` (
 --
 
 INSERT INTO `tblcontactusinfo` (`id`, `Address`, `EmailId`, `ContactNo`) VALUES
-(1, 'J&K Block, Laxmi Nagar', 'info@gmail.com', '8974561236');
+(1, 'Chandigarh University, Mohali, Punjab 140413', 'adarshdev85219@gmail.com', '8521976815');
 
 -- --------------------------------------------------------
 
@@ -133,7 +133,7 @@ CREATE TABLE `tblcontactusquery` (
 --
 
 INSERT INTO `tblcontactusquery` (`id`, `name`, `EmailId`, `ContactNumber`, `Message`, `PostingDate`, `status`) VALUES
-(1, 'Kunal ', 'kunal@gmail.com', '7977779798', 'I want to know you brach in Chandigarh?', '2024-06-04 09:34:51', 1);
+(1, 'Adarsh ', 'adarshdev85219@gmail.com', '8521976815', 'I want to know you brach in Chandigarh?', '2024-10-08 09:34:51', 1);
 
 -- --------------------------------------------------------
 

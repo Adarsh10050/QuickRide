@@ -11,7 +11,7 @@ else{
 <html lang="en">
 <head>
 
-<title>Car Rental - My Booking</title>
+<title>QuickRide - My Booking</title>
 <!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 <!--Custome Style -->

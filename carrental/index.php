@@ -9,7 +9,7 @@ error_reporting(0);
 <html lang="en">
 <head>
 
-<title>Car Rental Portal</title>
+<title>QuickRide</title>
 <!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="assets/css/style.css" type="text/css">
@@ -43,20 +43,23 @@ error_reporting(0);
 <!-- /Header --> 
 
 <!-- Banners -->
-<section id="banner" class="banner-section">
+<section id="banner" class="banner-section" 
+  style="background-image: url('https://i.ibb.co/7RBWC2T/home.jpg'); background-position: center center; background-repeat: no-repeat; background-size: cover; padding: 160px 0; position: relative;">
   <div class="container">
     <div class="div_zindex">
       <div class="row">
         <div class="col-md-5 col-md-push-7">
           <div class="banner_content">
             <h1>&nbsp;</h1>
-            <p>&nbsp; </p>
-            </div>
+            <p>&nbsp;</p>
+          </div>
         </div>
       </div>
     </div>
   </div>
 </section>
+
+
 <!-- /Banners --> 
 
 
